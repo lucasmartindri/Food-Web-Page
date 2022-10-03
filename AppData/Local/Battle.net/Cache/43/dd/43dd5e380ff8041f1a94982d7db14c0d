@@ -1,0 +1,1 @@
+{"files":{},"fragment_id":"auks_version_check_beta","products":[{"base":{"types":{"retail":{"quick_links":[{"action":{"type":"select_by_uid","uid":"auks_beta"},"icon_v2":"default#QUICK_LINK_ICON_DOWNLOAD_AVAILABLE","id":"select_beta","label":"default#QUICK_LINK_BETA","rank":5,"show_on_web_ui":true}]}}},"id":"AUKS"}],"strings":{},"version":29}

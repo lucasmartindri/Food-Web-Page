@@ -1,0 +1,15 @@
+I 2022-09-26 05:08:09.645275 [Main] {Main} Logging started for Battle.net build 2.15.2.13747
+I 2022-09-26 05:08:09.645429 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2022-09-26 05:08:09.645568 [Configuration] {Main} RoamingConfigRoot: C:\Users\negro\AppData\Roaming\Battle.net
+I 2022-09-26 05:08:09.645576 [Configuration] {Main} LocalConfigRoot: C:\Users\negro\AppData\Local\Battle.net
+D 2022-09-26 05:08:09.645641 [Configuration] {Main} Searching for config file: D:\Battle.net\Battle.net.13747\Battle.net.config
+D 2022-09-26 05:08:09.645665 [Configuration] {Main} Searching for config file: D:\Battle.net\Battle.net.config
+D 2022-09-26 05:08:09.645865 [Configuration] {Main} User Configuration File: C:\Users\negro\AppData\Roaming\Battle.net\Battle.net.config
+I 2022-09-26 05:08:09.647194 [Main] {Main} Command line arguments: {[0]=--game=odin, [1]=--gamepath=D:\Battle.net\Call of Duty Modern Warfare}
+I 2022-09-26 05:08:09.648149 [Main] {Main} Opening IPC shared memory. queueName=User:negro:Battle.net IPC ShMem mode=client
+I 2022-09-26 05:08:09.648228 [CommandQueue] {Main} Dispatching Command: register odin D:\Battle.net\Call of Duty Modern Warfare   false
+I 2022-09-26 05:08:09.648253 [Main] {Main} Leaving because another instance of battle.net is running
+D 2022-09-26 05:08:09.648258 [Main] {Main} Shutting down Backend
+D 2022-09-26 05:08:09.648262 [Main] {Main} Closing IPC Service
+D 2022-09-26 05:08:09.648265 [CommandQueue] {Main} IPCService is shutting down
+D 2022-09-26 05:08:09.648296 [Main] {Main} Shutting down callback queue
